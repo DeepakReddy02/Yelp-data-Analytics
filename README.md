@@ -5,3 +5,5 @@ I did a comprehensive analysis on Yelp dataset containing thousands of businesse
 I discovered intriguing regional variations—certain states consistently outperformed others in service quality, while some cities showed surprising gaps between customer demand and satisfaction levels. The correlation between review volume and ratings revealed interesting customer behavior patterns that challenge conventional wisdom.
 
 This project showcases how big data analytics can transform business decision-making, turning scattered customer feedback into actionable market intelligence. The insights range from identifying high-performing business models to revealing untapped market potential across America's diverse economic landscape
+
+Dataset URL:- https://www.kaggle.com/datasets/abdulmajid115/yelp-dataset-contains-1-million-rows/data
